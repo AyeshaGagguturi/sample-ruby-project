@@ -1,5 +1,4 @@
 jetbrains:
   rubymine:
-    plugins:
-      - zielu.gittoolbox
-      - izhangzhihao.rainbow.brackets
+    prebuilds:
+      version: stable
