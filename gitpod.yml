@@ -1,0 +1,5 @@
+jetbrains:
+  rubymine:
+    plugins:
+      - zielu.gittoolbox
+      - izhangzhihao.rainbow.brackets
